@@ -1,4 +1,6 @@
 [![Hugging Face – Model](https://img.shields.io/badge/HuggingFace-Model-yellow.svg)](https://huggingface.co/Shabbir1/asl-fingerspelling-text)
+
+Please visit the project page: https://www.tashrifwala.com/projects/ASL-fingerspelling-text.html
 # ASL Fingerspelling → Text (Transformer + MediaPipe)
 
 Real-time American Sign Language (ASL) **fingerspelling** recognition that streams webcam video, extracts landmarks with **MediaPipe**, and decodes character sequences with a **Transformer encoder–decoder**. Includes a simple CLI webcam app.
